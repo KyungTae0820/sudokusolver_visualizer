@@ -1,0 +1,6 @@
+tf-env/
+*.avi
+__pycache__/
+*.py[cod]
+*.log
+
